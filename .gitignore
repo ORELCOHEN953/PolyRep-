@@ -1,0 +1,10 @@
+# Ignore specific directories
+.VirtualBox/
+.eclipse/
+.m2/
+.p2/
+Downloads/
+
+# Ignore specific files
+*.log
+*.tmp
