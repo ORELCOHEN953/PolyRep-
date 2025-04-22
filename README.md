@@ -1,2 +1,6 @@
 # PolyRep 
-This class represents a set of functions on a polynom - represented as array of doubles.  * In general, such an array {-1,2,3.1} represents the following polynom 3.1x^2+2x-1=0,  * The index of the entry represents the power of x.  
+This project focuses on the representation and manipulation of polynomials using arrays of coefficients.
+Each element in the array corresponds to a coefficient, and its index represents the power of x. 
+The goal is to create a set of functions that allow operations on polynomials such as evaluation, addition, subtraction, multiplication, and differentiation.
+This approach provides an efficient and flexible way to represent polynomial equations and perform various mathematical operations programmatically.
+
